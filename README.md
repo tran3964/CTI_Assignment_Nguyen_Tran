@@ -78,3 +78,13 @@ https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-
 | **Infrastructure** | Websites, Gmail accounts, URLs, messaging platforms used to deliver malicious files or communicate with victims. |
 | **Capability** | Malware embedded in PDF files, ZIP archives, or delivered through phishing links. |
 | **Victim** | Job seekers, remote workers, and tech professionals applying for online positions. |
+
+## Threat Actor Profile Summary - Task 5
+
+This report, titled *"Help Wanted: Vietnamese Actors Using Fake Job Posting Campaigns to Deliver Malware and Steal Credentials"*, examines a campaign carried out by Vietnamese actors. Threat actors target Vietnam's digital job market. Their main objective is to steal credentials and deliver malware, often disguised as part of a scheduled interview process.
+
+In this environment of high competition and widespread remote work, job seekers, remote workers, and tech professionals become valuable targets. Fake job postings spread globally, reaching victims across multiple regions. Because remote work is convenient and appealing, it attracts many people who are seeking job opportunities and can provide a flexible schedule.
+
+As the technology sector becomes increasingly prominent in the job market, adversaries exploit the weak point by sending emails that attach files like PDFs, ZIPs, or phishing URLs delivered to the target. The malicious software hidden inside these files activates once the victim opens or accesses them, allowing the attackers to infiltrate the victim’s system.
+
+As seen in the Diamond Model analysis, the adversary in this campaign is exploiting the trend of the job market. They operate by impersonating recruiters and taking advantage of the benefits of freely posting on job-search platforms where posting and sharing opportunities is easy and largely unverified. Their infrastructure includes messaging platforms, email accounts, and job posting websites that allow them to reach victims directly. Their capability involves hiding malicious code inside documents or URLs, allowing the malware to bypass basic security checks. Then they use any messaging platform to access the target and send their prepared files or URLs.
