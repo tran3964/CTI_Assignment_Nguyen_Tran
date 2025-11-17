@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
+  <diagram name="Page-1" id="bsLagiAapfKjGkzPISzf">
+    <mxGraphModel dx="1346" dy="1379" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-2" value="" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="-618" width="333" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-4" value="&lt;font style=&quot;font-size: 23px; color: rgb(153, 0, 0);&quot;&gt;Adversary&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-5" value="&lt;font style=&quot;font-size: 23px; color: rgb(153, 0, 0);&quot;&gt;Capability&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-6" value="&lt;font style=&quot;font-size: 23px; color: rgb(153, 0, 0);&quot;&gt;Infrastructure&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="-477" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-7" value="&lt;font style=&quot;font-size: 23px; color: rgb(153, 0, 0);&quot;&gt;Victim&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-77" y="-711" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-9">
+          <mxGeometry width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-3" value="Threat actors running fake job posting" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-9">
+          <mxGeometry x="1" y="15" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="-498" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-10">
+          <mxGeometry width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-12" value="&lt;ul&gt;&lt;li&gt;Malware hidden in PDFs / Zips&lt;/li&gt;&lt;li&gt;Phishing links&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-10">
+          <mxGeometry x="-7" y="15" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-399" y="-569" width="197" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-16">
+          <mxGeometry x="10" width="187" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-15" value="&lt;ul&gt;&lt;li&gt;Gmail&lt;/li&gt;&lt;li&gt;URLs&lt;/li&gt;&lt;li&gt;Job posting websites&lt;/li&gt;&lt;li&gt;Messaging platforms&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-16">
+          <mxGeometry y="25" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-85" y="-264" width="197" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-17">
+          <mxGeometry x="10" width="187" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-19" value="&lt;ul&gt;&lt;li&gt;Job seekers&lt;/li&gt;&lt;li&gt;Remote workers&lt;/li&gt;&lt;li&gt;Tech professionals&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-17">
+          <mxGeometry y="25" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-21" value="Uses" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="-569" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-22" value="Deploys" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="92.99980515339465" y="-569.0001948466054" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-148.476659402887" y="-424" width="88.78347758470525" height="83.47665940288704" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="UdXCXiefmQ3xjjbBZs58-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.976659402887009" as="sourcePoint" />
+            <mxPoint x="88.78347758470525" y="73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-30" value="Delivers phishing link" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=45;" vertex="1" parent="UdXCXiefmQ3xjjbBZs58-31">
+          <mxGeometry x="-0.5233405971129912" y="31" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67.5" y="-471" as="sourcePoint" />
+            <mxPoint x="-40.5" y="-471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-36" value="Malware downloads from URLs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="-511" width="120.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-48" y="-577.5" as="sourcePoint" />
+            <mxPoint x="-129" y="-504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdXCXiefmQ3xjjbBZs58-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="76" y="-579" as="sourcePoint" />
+            <mxPoint x="151" y="-511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
