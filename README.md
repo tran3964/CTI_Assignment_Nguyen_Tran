@@ -88,3 +88,18 @@ In this environment of high competition and widespread remote work, job seekers,
 As the technology sector becomes increasingly prominent in the job market, adversaries exploit the weak point by sending emails that attach files like PDFs, ZIPs, or phishing URLs delivered to the target. The malicious software hidden inside these files activates once the victim opens or accesses them, allowing the attackers to infiltrate the victim’s system.
 
 As seen in the Diamond Model analysis, the adversary in this campaign is exploiting the trend of the job market. They operate by impersonating recruiters and taking advantage of the benefits of freely posting on job-search platforms where posting and sharing opportunities is easy and largely unverified. Their infrastructure includes messaging platforms, email accounts, and job posting websites that allow them to reach victims directly. Their capability involves hiding malicious code inside documents or URLs, allowing the malware to bypass basic security checks. Then they use any messaging platform to access the target and send their prepared files or URLs.
+
+## Reflection Questions:
+
+### How does the Diamond Model help in understanding threat actors? 
+
+The Diamond Model helps to analyze the adversary's campaign. It will reduce the time for both sides tracking and operating. The diagram can clearly show the association between components.
+
+### What challenges did you face in identifying each vertex? 
+
+Even though the Diamond Model is convenient and initially identifies for victim can be easy, but identifying the adversary might be wrong if that is a complex cyberattack, and tracking their infrastructure and capability is not easy. Because I believe that adversaries always have their ways to hide their malicious intent by overlapping many types of infrastructure and protective capabilities to cut the trace at any time if someone tries to find them.
+
+### How could this model support proactive defense strategies? 
+
+Technically, this model will support proactive defense strategies because it can determine the affected victims and map out the potential entry points used by the attackers.
+
