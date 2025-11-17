@@ -61,7 +61,7 @@ Each operation prioritizes certain infrastructure types depending on the attacke
 
 ---
 
-## Example  
+## Example - Task 3: Extract Diamond Model Elements
 **Research Website:**  
 https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns  
 
